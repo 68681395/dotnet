@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: img
+---
+
 # **生成ssh key步骤**
 
 这里以配置github的ssh key为例：
@@ -133,4 +137,4 @@ disconnected no supported authentication methods available(server sent: publicke
 
 然后便可正确push和pull
 
-![enter image description here](media/image1.png){width="7.572916666666667in" height="5.625in"}
+![notsupportauthentication](img/notsupportauthentication.png)
