@@ -1,6 +1,3 @@
----
-typora-copy-images-to: img
----
 
 # **生成ssh key步骤**
 
