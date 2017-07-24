@@ -72,11 +72,11 @@ Hi username! You’ve successfully authenticated, but GitHub does not provide sh
 
 ### **在config文件里添加如下内容(User表示你的用户名)**
 
-> Host \*.cloudscape.sohu.com
+> Host \*.cloudscape.sohu.com #对于gitlab.com,正确的配置是不能包含匹配符*的，以为 *.gitlab.com不能匹配 gitlab.com
 >
 > IdentityFile \~/.ssh/id\_rsa.sohu
 >
-> User test
+> User test #此配置可省略
 
 ## **4. 上传key到云平台后台(省略)**
 
